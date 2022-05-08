@@ -11,3 +11,10 @@
 ## Join our community Github organisation 
 
 Create an issue [here](https://github.com/OSCA-Kampala-Chapter/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) and an invitation will be sent to your email automatically to join the github organisation page
+
+
+##### We are doing something different.
+
+##### We are building a community.
+
+##### We do this right, we can change everything!
