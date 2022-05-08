@@ -6,6 +6,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-@oscakampala--twitter-9cf.svg)](https://twitter.com/oscakampala)
 [![LinkedIN](https://img.shields.io/badge/linkedin-@oscakampala--LinkedIn-lightgray.svg)](https://www.linkedin.com/company/open-source-community-kampala/)
 [![YouTube](https://img.shields.io/badge/youtube-@oscakampala--youtube-red.svg)](https://www.youtube.com/channel/UCtRZkl24Sfo6wa_uzCFEnGA)
+[![Telegram](https://img.shields.io/badge/telegram-@oscakampala--telegram-9cf.svg)](https://t.me/oscakampala)
 
 ## Join our community Github organisation 
 
