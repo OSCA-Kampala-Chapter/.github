@@ -8,10 +8,6 @@
 [![YouTube](https://img.shields.io/badge/youtube-@oscakampala--youtube-red.svg)](https://www.youtube.com/channel/UCtRZkl24Sfo6wa_uzCFEnGA)
 [![Telegram](https://img.shields.io/badge/telegram-@oscakampala--telegram-9cf.svg)](https://t.me/oscakampala)
 
-## Join our community Github organisation 
-
-Create an issue [here](https://github.com/OSCA-Kampala-Chapter/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) and an invitation will be sent to your email automatically to join the github organisation page
-
 
 ##### We are doing something different.
 
